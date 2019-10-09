@@ -1,0 +1,689 @@
+﻿{
+  "current_page": 1,
+  "data": [{
+    "id": 665,
+    "name": "Vorweihnachtliche Kunstausstellung",
+    "name_2": null,
+    "start_datetime": "2019-11-02T11:00:00+01:00",
+    "start_datetime_is_approximately": false,
+    "end_datetime": "2019-11-03T17:00:00+01:00",
+    "end_datetime_is_approximately": false,
+    "is_prior_notice": false,
+    "description_text": "Beeindruckendes aus Gold und Silber von Thorsten Kranefuß, sowie Malereien Acryl- und Ölfarben auf Leinwand von Gabi Schneider-Heinrich und Kunst in Fotografie von Michael Abraham, Eintritt frei<br \/>\r\n<br \/>\r\nGezeigt werden neue Exponate von der Goldschmiede Kranefuss durch Thorsten Kranefuss, aus der eigenen Werkstatt in Gold und Silber. Gabi Schneider-Heinrich hat neue Malerei in Acryl- und Ölfarben auf Leinwand. Künstler Michael Abraham stellt Kunst in Fotografie vor.<br \/>\r\n<br \/>\r\n\"Halle Pictorius\" am Hauptschlossgebäude im Innenhof<br \/>\r\nGeöffnet von 11:00 Uhr bis 17:00 Uhr, Eintritt frei<br \/>\r\n<br \/>\r\n                                --------------------<br \/>\r\n<br \/>\r\n                                Organisator: <br \/>\r\n                                Ort: Schloss Nordkirchen<br \/>\r\n                                Straße: Schlossstraße<br \/>\r\n                                PLZ: 59394<br \/>\r\n                                Stadt: Nordkirchen<br \/>\r\n                                E-Mail: <br \/>",
+    "external_link": "http:\/\/www.nordkirchen.de",
+    "external_ticket_link": null,
+    "public_media": {
+      "images": [],
+      "documents": []
+    },
+    "poi": {
+      "id": 32,
+      "name": "Schloss Nordkirchen",
+      "name_2": null,
+      "description_text": "<p><br><\/p>",
+      "address": {
+        "id": 32,
+        "street": "Schloß",
+        "house_number": "1",
+        "address_addition": null,
+        "postal_code": "59394",
+        "city": "Nordkirchen",
+        "country": "Deutschland",
+        "latitude": 51.732147,
+        "longitude": 7.534018
+      },
+      "contact_details": {
+        "id": 32,
+        "salutation": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "institution": null,
+        "position": null,
+        "phone": null,
+        "mobile_phone": null,
+        "fax": null,
+        "email": null,
+        "website": null
+      }
+    },
+    "event_organizers": [],
+    "departments": [{
+      "id": 2,
+      "name": "Tourismus"
+    }],
+    "types": [{
+      "id": 27,
+      "name": "Ausstellung",
+      "for_poi": false,
+      "for_event": true
+    }],
+    "characteristics": [{
+      "id": 21,
+      "name": "Am Schloss",
+      "font_awesome_icon": "fab fa-fort-awesome-alt",
+      "for_poi": false,
+      "for_event": true
+    }],
+    "opening_hours": [],
+    "price_sets": []
+  }, {
+    "id": 1350,
+    "name": "Große Turner-Ausstellung",
+    "name_2": null,
+    "start_datetime": "2019-11-08T00:00:00+01:00",
+    "start_datetime_is_approximately": false,
+    "end_datetime": "2019-11-09T00:00:00+01:00",
+    "end_datetime_is_approximately": false,
+    "is_prior_notice": false,
+    "description_text": "Die Ausstellung \"Turner\" stellt die Reisen Turners in die Schweiz und nach Italien in den Fokus, die ihn zu seinen atmosphärischen Landschaftsdarstellungen inspirierten, bis zum 26. Januar 2020<br>\r\n<br>\r\n                                --------------------<br>\r\n<br>\r\n                                Organisator: <br>\r\n                                Ort: LWL-Museum für Kunst und Kultur<br>\r\n                                Straße: Domplatz<br>\r\n                                PLZ: 48143<br>\r\n                                Stadt: Münster<br>\r\n                                E-Mail: landesmuseum@lwl.org<br>",
+    "external_link": "https:\/\/www.lwl.org\/LWL\/Kultur\/museumkunstkultur\/ausstellungen\/ausstellungen_vorschau\/turner",
+    "external_ticket_link": null,
+    "public_media": {
+      "images": [],
+      "documents": []
+    },
+    "poi": {
+      "id": 97,
+      "name": "LWL-Museum für Kunst und Kultur",
+      "name_2": null,
+      "description_text": null,
+      "address": {
+        "id": 123,
+        "street": "Domplatz",
+        "house_number": "10",
+        "address_addition": null,
+        "postal_code": "48143",
+        "city": "Münster",
+        "country": "Deutschland",
+        "latitude": 51.961886,
+        "longitude": 7.624832
+      },
+      "contact_details": {
+        "id": 124,
+        "salutation": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "institution": null,
+        "position": null,
+        "phone": "+49 251 5907-01",
+        "mobile_phone": null,
+        "fax": "+49 251 5907-210",
+        "email": "museumkunstkultur@lwl.org",
+        "website": "https:\/\/www.lwl.org\/LWL\/Kultur\/museumkunstkultur\/"
+      }
+    },
+    "event_organizers": [],
+    "departments": [{
+      "id": 2,
+      "name": "Tourismus"
+    }],
+    "types": [],
+    "characteristics": [],
+    "opening_hours": [],
+    "price_sets": [{
+      "id": 308,
+      "name": "Preis",
+      "info_text": "<p>Schülerinnen und Schüler zahlen im Rahmen einer Lehrveranstaltung 1 €. Gruppen (Erwachsene, ab 16 Personen) zahlen pro Person 9 €.<\/p>",
+      "prices": [{
+        "id": 849,
+        "price": 12,
+        "valid_for": null,
+        "price_type": {
+          "id": 9,
+          "name": "Erwachsene",
+          "sorting": 50
+        }
+      }, {
+        "id": 850,
+        "price": 6,
+        "valid_for": null,
+        "price_type": {
+          "id": 1,
+          "name": "ermäßigt",
+          "sorting": 200
+        }
+      }, {
+        "id": 851,
+        "price": 4,
+        "valid_for": null,
+        "price_type": {
+          "id": 3,
+          "name": "Kinder",
+          "sorting": 300
+        }
+      }, {
+        "id": 852,
+        "price": 4,
+        "valid_for": null,
+        "price_type": {
+          "id": 3,
+          "name": "Kinder",
+          "sorting": 300
+        }
+      }, {
+        "id": 853,
+        "price": 20,
+        "valid_for": null,
+        "price_type": {
+          "id": 6,
+          "name": "Familien",
+          "sorting": 380
+        }
+      }]
+    }]
+  }, {
+    "id": 1407,
+    "name": "Dahlienfestival",
+    "name_2": null,
+    "start_datetime": "2020-09-20T11:00:00+02:00",
+    "start_datetime_is_approximately": false,
+    "end_datetime": "2020-09-20T18:00:00+02:00",
+    "end_datetime_is_approximately": false,
+    "is_prior_notice": false,
+    "description_text": "Blumenkorso, zahlreiche Aussteller, Live-Musik, Kulinarisches, Kinderanimation, personenbefördernde Modelleisenbahn, 11 bis 18 Uhr<br>\r\n<br>\r\nTauchen Sie mit Legden ein in eine Welt der Träume – gestaltet mit über 1.100.000 Dahlienblüten – und lassen Sie sich verzaubern. Am  20. September 2020 versinkt das Dahliendorf Legden wieder einmal in ein einzigartiges Blütenmeer von Dahlien. Ein Fest der Sinne für Jung und Alt. Um 11 Uhr startet das abwechslungsreiche Rahmenprogramm mit spannenden Aktionen für Groß und Klein, mit Straßenkünstlern, verkaufsoffenem Sonntag und dem Dahlienmarkt.<br>\r\n<br>\r\nEines der Höhepunkte des Vormittagsprogrammes wird die Kürung der Dahlienkönigin sein. Für Familien mit Kindern, für Garten- und Blumenfreunde natürlich ein Festival, das bereits im Kalender notiert ist. Erleben Sie dieses einzigartige Kulturereignis im Westmünsterland und freuen Sie sich auf ein Blumenmeer von Dahlien – schließlich findet der Blumenkorso nur alle drei Jahre statt.<br>\r\n<br>\r\n                                --------------------<br>\r\n<br>\r\n                                Organisator: <br>\r\n                                Ort: Dahliengarten<br>\r\n                                Straße: <br>\r\n                                PLZ: 48739<br>\r\n                                Stadt: Legden<br>\r\n                                E-Mail: <br>",
+    "external_link": "https:\/\/blumenkorso-legden.de\/",
+    "external_ticket_link": null,
+    "public_media": {
+      "images": [],
+      "documents": []
+    },
+    "poi": {
+      "id": 217,
+      "name": "Dahliengarten Legden",
+      "name_2": null,
+      "description_text": "<p>leer<\/p>",
+      "address": {
+        "id": 257,
+        "street": "Kirchplatz",
+        "house_number": "2",
+        "address_addition": null,
+        "postal_code": "48739",
+        "city": "Legden",
+        "country": "Deutschland",
+        "latitude": 52.02986,
+        "longitude": 7.10431
+      },
+      "contact_details": {
+        "id": 267,
+        "salutation": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "institution": null,
+        "position": null,
+        "phone": "02566 4242",
+        "mobile_phone": null,
+        "fax": null,
+        "email": null,
+        "website": "https:\/\/www.legden.de\/portal\/seiten\/dahliengarten-legden-900000152-24110.html"
+      }
+    },
+    "event_organizers": [],
+    "departments": [{
+      "id": 2,
+      "name": "Tourismus"
+    }],
+    "types": [{
+      "id": 16,
+      "name": "Festival",
+      "for_poi": false,
+      "for_event": true
+    }],
+    "characteristics": [],
+    "opening_hours": [],
+    "price_sets": []
+  }, {
+    "id": 1441,
+    "name": "Martin Rütter",
+    "name_2": null,
+    "start_datetime": "2020-02-06T20:00:00+01:00",
+    "start_datetime_is_approximately": false,
+    "end_datetime": "2020-02-07T00:00:00+01:00",
+    "end_datetime_is_approximately": false,
+    "is_prior_notice": false,
+    "description_text": "mit \"Freispruch\", 37,95 Euro (VVK)<br>\r\n<br>\r\n                                --------------------<br>\r\n<br>\r\n                                Organisator: <br>\r\n                                Ort: Halle Münsterland<br>\r\n                                Straße: Albersloher Weg<br>\r\n                                PLZ: 48155<br>\r\n                                Stadt: Münster<br>\r\n                                E-Mail: info@halle-muensterland.de<br>",
+    "external_link": null,
+    "external_ticket_link": null,
+    "public_media": {
+      "images": [],
+      "documents": []
+    },
+    "poi": {
+      "id": 138,
+      "name": "Halle Münsterland",
+      "name_2": "Messe und Congress Centrum",
+      "description_text": "<p>leer<\/p>",
+      "address": {
+        "id": 178,
+        "street": "Albersloher Weg",
+        "house_number": "32",
+        "address_addition": null,
+        "postal_code": "48155",
+        "city": "Münster",
+        "country": "Deutschland",
+        "latitude": 51.947839,
+        "longitude": 7.638812
+      },
+      "contact_details": {
+        "id": 187,
+        "salutation": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "institution": null,
+        "position": null,
+        "phone": "+49 (0)251 \/ 66 000",
+        "mobile_phone": null,
+        "fax": null,
+        "email": "info@mcc-halle-muensterland.de",
+        "website": "https:\/\/www.mcc-halle-muensterland.de"
+      }
+    },
+    "event_organizers": [],
+    "departments": [{
+      "id": 2,
+      "name": "Tourismus"
+    }],
+    "types": [{
+      "id": 24,
+      "name": "Bühne",
+      "for_poi": false,
+      "for_event": true
+    }],
+    "characteristics": [],
+    "opening_hours": [],
+    "price_sets": [{
+      "id": 132,
+      "name": "Preis",
+      "info_text": "<p><br><\/p>",
+      "prices": [{
+        "id": 481,
+        "price": 37.95,
+        "valid_for": null,
+        "price_type": {
+          "id": 7,
+          "name": "Vorverkauf",
+          "sorting": 500
+        }
+      }]
+    }]
+  }, {
+    "id": 1888,
+    "name": "Virtuosität und Philosophie",
+    "name_2": null,
+    "start_datetime": "2019-11-10T18:00:00+01:00",
+    "start_datetime_is_approximately": false,
+    "end_datetime": "2019-11-11T00:00:00+01:00",
+    "end_datetime_is_approximately": false,
+    "is_prior_notice": false,
+    "description_text": "Klavierabend mit Alexey Sychev. 15\/8 Euro<br>\r\n<br>\r\n                                --------------------<br>\r\n<br>\r\n                                Organisator: <br>\r\n                                Ort: Haus der Klaviere Gottschling<br>\r\n                                Straße: Graskamp 17<br>\r\n                                PLZ: 48249<br>\r\n                                Stadt: Dülmen<br>\r\n                                E-Mail: <br>",
+    "external_link": null,
+    "external_ticket_link": null,
+    "public_media": {
+      "images": [],
+      "documents": []
+    },
+    "poi": {
+      "id": 315,
+      "name": "Haus der Klaviere Gottschling",
+      "name_2": null,
+      "description_text": "<p><br><\/p>",
+      "address": {
+        "id": 355,
+        "street": "Graskamp",
+        "house_number": "17",
+        "address_addition": null,
+        "postal_code": "48249",
+        "city": "Dülmen",
+        "country": "Deutschland",
+        "latitude": 51.832814,
+        "longitude": 7.403243
+      },
+      "contact_details": {
+        "id": 366,
+        "salutation": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "institution": null,
+        "position": null,
+        "phone": "02590 915951",
+        "mobile_phone": null,
+        "fax": null,
+        "email": null,
+        "website": "https:\/\/www.gottschling-klaviere.de\/"
+      }
+    },
+    "event_organizers": [],
+    "departments": [{
+      "id": 2,
+      "name": "Tourismus"
+    }],
+    "types": [{
+      "id": 30,
+      "name": "Konzert",
+      "for_poi": false,
+      "for_event": true
+    }],
+    "characteristics": [],
+    "opening_hours": [],
+    "price_sets": []
+  }, {
+    "id": 2009,
+    "name": "\"Orgel Herbst\"",
+    "name_2": null,
+    "start_datetime": "2019-10-13T18:30:00+02:00",
+    "start_datetime_is_approximately": false,
+    "end_datetime": "2019-10-14T00:00:00+02:00",
+    "end_datetime_is_approximately": false,
+    "is_prior_notice": false,
+    "description_text": "Orgel plus Film: Im zweiten Konzert der Reihe »Orgel-Herbst« in Münster trifft Otto Krämer, Orgel, auf den Film »Der Galiläer«. Der Galiläer ist ein Stummfilm des Regisseurs Dimitri Buchowetzki aus dem Jahr 1921. Er widmet sich Szenen aus dem Leben und Sterben Jesu.<br>\r\n<br>\r\n                                --------------------<br>\r\n<br>\r\n                                Organisator: <br>\r\n                                Ort: St. Joseph Pfarrkirche<br>\r\n                                Straße: Sankt-Josefs-Kirchpl.<br>\r\n                                PLZ: 48153<br>\r\n                                Stadt: Münster<br>\r\n                                E-Mail: <br>",
+    "external_link": null,
+    "external_ticket_link": null,
+    "public_media": {
+      "images": [],
+      "documents": []
+    },
+    "poi": {
+      "id": 282,
+      "name": "St. Joseph Pfarrkirche",
+      "name_2": null,
+      "description_text": "<p><br><\/p>",
+      "address": {
+        "id": 322,
+        "street": "Sankt-Josefs-Kirchpl.",
+        "house_number": "11",
+        "address_addition": null,
+        "postal_code": "48153",
+        "city": "Münster",
+        "country": "Deutschland",
+        "latitude": 51.95,
+        "longitude": 7.625158
+      },
+      "contact_details": {
+        "id": 333,
+        "salutation": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "institution": null,
+        "position": null,
+        "phone": "0251 535890",
+        "mobile_phone": null,
+        "fax": null,
+        "email": null,
+        "website": null
+      }
+    },
+    "event_organizers": [],
+    "departments": [{
+      "id": 2,
+      "name": "Tourismus"
+    }],
+    "types": [{
+      "id": 30,
+      "name": "Konzert",
+      "for_poi": false,
+      "for_event": true
+    }],
+    "characteristics": [],
+    "opening_hours": [],
+    "price_sets": []
+  }, {
+    "id": 2010,
+    "name": "Orgel plus Orchester",
+    "name_2": null,
+    "start_datetime": "2019-10-20T18:30:00+02:00",
+    "start_datetime_is_approximately": false,
+    "end_datetime": "2019-10-21T00:00:00+02:00",
+    "end_datetime_is_approximately": false,
+    "is_prior_notice": false,
+    "description_text": "Orgel-Herbst »Orgel plus« 2019 | 3. Konzert<br>\r\n<br>\r\n<br>\r\nOrgel plus Orchester: Große Klänge sind zu erwarten, wenn das Josephina Orchester mit seinem Konzertmeister Burkhard Schmidt anreist und sich mit Rüdiger Wolbeck, Pauke, und Winfried Müller an der Orgel auf einen Klangparcours begibt.<br>\r\nEintritt frei.<br>\r\n<br>\r\n                                --------------------<br>\r\n<br>\r\n                                Organisator: <br>\r\n                                Ort: St. Joseph Pfarrkirche<br>\r\n                                Straße: Sankt-Josefs-Kirchpl.<br>\r\n                                PLZ: 48153<br>\r\n                                Stadt: Münster<br>\r\n                                E-Mail: <br>",
+    "external_link": null,
+    "external_ticket_link": null,
+    "public_media": {
+      "images": [],
+      "documents": []
+    },
+    "poi": {
+      "id": 282,
+      "name": "St. Joseph Pfarrkirche",
+      "name_2": null,
+      "description_text": "<p><br><\/p>",
+      "address": {
+        "id": 322,
+        "street": "Sankt-Josefs-Kirchpl.",
+        "house_number": "11",
+        "address_addition": null,
+        "postal_code": "48153",
+        "city": "Münster",
+        "country": "Deutschland",
+        "latitude": 51.95,
+        "longitude": 7.625158
+      },
+      "contact_details": {
+        "id": 333,
+        "salutation": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "institution": null,
+        "position": null,
+        "phone": "0251 535890",
+        "mobile_phone": null,
+        "fax": null,
+        "email": null,
+        "website": null
+      }
+    },
+    "event_organizers": [],
+    "departments": [{
+      "id": 2,
+      "name": "Tourismus"
+    }],
+    "types": [{
+      "id": 30,
+      "name": "Konzert",
+      "for_poi": false,
+      "for_event": true
+    }],
+    "characteristics": [],
+    "opening_hours": [],
+    "price_sets": []
+  }, {
+    "id": 2011,
+    "name": "Orgel-Herbst Orgel plus 2019",
+    "name_2": null,
+    "start_datetime": "2019-10-27T18:30:00+01:00",
+    "start_datetime_is_approximately": false,
+    "end_datetime": "2019-10-28T00:00:00+01:00",
+    "end_datetime_is_approximately": false,
+    "is_prior_notice": false,
+    "description_text": "Das vierte und letzte Konzert der 2019er Reihe Orgel-Herbst in Münster findet mit Lokalmatador Winfried Müller und dem in St. Joseph immer wieder gern gesehenen und gehörten Pianist Michael Gees statt. Von beiden gibt es übrigens auch mehr Informationen im World-Wide-Web <br>\r\n<br>\r\n                                --------------------<br>\r\n<br>\r\n                                Organisator: <br>\r\n                                Ort: St. Joseph Pfarrkirche<br>\r\n                                Straße: Sankt-Josefs-Kirchpl.<br>\r\n                                PLZ: 48153<br>\r\n                                Stadt: Münster<br>\r\n                                E-Mail: <br>",
+    "external_link": null,
+    "external_ticket_link": null,
+    "public_media": {
+      "images": [],
+      "documents": []
+    },
+    "poi": {
+      "id": 282,
+      "name": "St. Joseph Pfarrkirche",
+      "name_2": null,
+      "description_text": "<p><br><\/p>",
+      "address": {
+        "id": 322,
+        "street": "Sankt-Josefs-Kirchpl.",
+        "house_number": "11",
+        "address_addition": null,
+        "postal_code": "48153",
+        "city": "Münster",
+        "country": "Deutschland",
+        "latitude": 51.95,
+        "longitude": 7.625158
+      },
+      "contact_details": {
+        "id": 333,
+        "salutation": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "institution": null,
+        "position": null,
+        "phone": "0251 535890",
+        "mobile_phone": null,
+        "fax": null,
+        "email": null,
+        "website": null
+      }
+    },
+    "event_organizers": [],
+    "departments": [{
+      "id": 2,
+      "name": "Tourismus"
+    }],
+    "types": [{
+      "id": 30,
+      "name": "Konzert",
+      "for_poi": false,
+      "for_event": true
+    }],
+    "characteristics": [],
+    "opening_hours": [],
+    "price_sets": []
+  }, {
+    "id": 2012,
+    "name": "Joahann König",
+    "name_2": null,
+    "start_datetime": "2019-10-30T20:00:00+01:00",
+    "start_datetime_is_approximately": false,
+    "end_datetime": "2019-10-31T00:00:00+01:00",
+    "end_datetime_is_approximately": false,
+    "is_prior_notice": false,
+    "description_text": "<p>Johann König steht mitten im Leben: Er hat drei Kinder gezeugt, zwei Bäume<br>\r\ngepflanzt und ein Haus gebaut. Die nächsten Aufgaben drängen sich also quasi auf:<br>\r\nEr muss den Auszug der Kinder vorbereiten, die Bäume fällen und das Haus<br>\r\nverputzen.<br>\r\nGleichzeitig steht er aber auch mitten neben dem Leben: Denn er ist oft in Gedanken<br>\r\noder in den Pilzen, bittet die Bäume um Ruhe und genießt eine lange Weile die<br>\r\neigenen und die Launen der Natur.<br>\r\nIm neuen Programm stellt er die drängenden Fragen der Gegenwart:<br>\r\n1. Wenn die Kinder durch ihren immensen Fleisch-, Spielzeug- und Gummistiefel-<br>\r\nBedarf die Ressourcen des Planeten frühzeitig mit verballern, sind dann die Eltern<br>\r\nraus aus der Verantwortung für ihre Zukunft?<br>\r\n2. Welche Auswirkungen auf den weltweiten Aktienmarkt hätte es, wenn alle<br>\r\nMenschen gleich wären und man die Begriffe Konsum und Moral tauscht?<br>\r\n3. Welcher Tag ist heute?<br>\r\nDas neueste Bühnenstück des Ausnahme-Cholerikers ist auch das bisher<br>\r\nfamoseste: Kühl in der Analyse, warm in der Poesie, heiß in der Darbietung. <\/p><p><br><\/p><p>Ab 25 Euro<br>\r\n<br>\r\n                                --------------------<br>\r\n<br>\r\n                                Organisator: <br>\r\n                                Ort: Bürgerhaus<br>\r\n                                Straße: Raheneschstraße<br>\r\n                                PLZ: 49477<br>\r\n                                Stadt: Ibbenbüren<br>\r\n                                E-Mail: <br><\/p>",
+    "external_link": null,
+    "external_ticket_link": null,
+    "public_media": {
+      "images": [],
+      "documents": []
+    },
+    "poi": {
+      "id": 328,
+      "name": "Bürgerhaus Ibbenbüren",
+      "name_2": null,
+      "description_text": "<p><br><\/p>",
+      "address": {
+        "id": 368,
+        "street": "Goethestraße",
+        "house_number": "5a",
+        "address_addition": null,
+        "postal_code": "49477",
+        "city": "Ibbebbüren",
+        "country": "Deutschland",
+        "latitude": 52.27486,
+        "longitude": 7.721221
+      },
+      "contact_details": {
+        "id": 379,
+        "salutation": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "institution": null,
+        "position": null,
+        "phone": null,
+        "mobile_phone": null,
+        "fax": null,
+        "email": null,
+        "website": null
+      }
+    },
+    "event_organizers": [],
+    "departments": [{
+      "id": 2,
+      "name": "Tourismus"
+    }],
+    "types": [{
+      "id": 24,
+      "name": "Bühne",
+      "for_poi": false,
+      "for_event": true
+    }],
+    "characteristics": [],
+    "opening_hours": [],
+    "price_sets": []
+  }, {
+    "id": 2013,
+    "name": "Requiem",
+    "name_2": null,
+    "start_datetime": "2019-11-01T18:30:00+01:00",
+    "start_datetime_is_approximately": false,
+    "end_datetime": "2019-11-02T00:00:00+01:00",
+    "end_datetime_is_approximately": false,
+    "is_prior_notice": false,
+    "description_text": "„REQUIEM“ | Maurice Duruflé<br>\r\n<br>\r\n<br>\r\nAllerheiligen – das heißt an St. Joseph Konzert plus Gottesdienst. Und so sind sie wieder einmal alle im Einsatz: der Kinder- und Jugendchor, der Kammerchor Cantamus, Solist, Cello und Orgel… Das Requiem op. 9 von Maurice Duruflé ist eine Vertonung der lateinischen Totenmesse und ist somit würdiger musikalischer Rahmen zum Gedenken für die Verstorbenen des vergangenen Jahres. Orgel: Ansgar Wallenhorst<br>\r\n<br>\r\n<br>\r\n                                --------------------<br>\r\n<br>\r\n                                Organisator: <br>\r\n                                Ort: St. Joseph Pfarrkirche<br>\r\n                                Straße: Sankt-Josefs-Kirchpl.<br>\r\n                                PLZ: 48153<br>\r\n                                Stadt: Münster<br>\r\n                                E-Mail: <br>",
+    "external_link": null,
+    "external_ticket_link": null,
+    "public_media": {
+      "images": [],
+      "documents": []
+    },
+    "poi": {
+      "id": 282,
+      "name": "St. Joseph Pfarrkirche",
+      "name_2": null,
+      "description_text": "<p><br><\/p>",
+      "address": {
+        "id": 322,
+        "street": "Sankt-Josefs-Kirchpl.",
+        "house_number": "11",
+        "address_addition": null,
+        "postal_code": "48153",
+        "city": "Münster",
+        "country": "Deutschland",
+        "latitude": 51.95,
+        "longitude": 7.625158
+      },
+      "contact_details": {
+        "id": 333,
+        "salutation": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "institution": null,
+        "position": null,
+        "phone": "0251 535890",
+        "mobile_phone": null,
+        "fax": null,
+        "email": null,
+        "website": null
+      }
+    },
+    "event_organizers": [],
+    "departments": [{
+      "id": 2,
+      "name": "Tourismus"
+    }],
+    "types": [{
+      "id": 30,
+      "name": "Konzert",
+      "for_poi": false,
+      "for_event": true
+    }],
+    "characteristics": [],
+    "opening_hours": [],
+    "price_sets": []
+  }],
+  "first_page_url": "https:\/\/www.datenportal-muensterland.de\/api\/v1\/events?append=public_media&page%5Bsize%5D=10&filter%5Bin_future%5D=true&page%5Bnumber%5D=1",
+  "from": 1,
+  "last_page": 37,
+  "last_page_url": "https:\/\/www.datenportal-muensterland.de\/api\/v1\/events?append=public_media&page%5Bsize%5D=10&filter%5Bin_future%5D=true&page%5Bnumber%5D=37",
+  "next_page_url": "https:\/\/www.datenportal-muensterland.de\/api\/v1\/events?append=public_media&page%5Bsize%5D=10&filter%5Bin_future%5D=true&page%5Bnumber%5D=2",
+  "path": "https:\/\/www.datenportal-muensterland.de\/api\/v1\/events",
+  "per_page": 10,
+  "prev_page_url": null,
+  "to": 10,
+  "total": 363
+}
