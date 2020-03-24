@@ -8,10 +8,9 @@ Wenn die Lizenz an dieser Stelle nicht genannt ist, dann finden Sie sie in der R
 
 ## Quellen
 
-Hier finden Sie Links zu Hintergrundinformationen und Lizenzen zu den folgenden Dateien:
+Hier finden Sie Links zu Hintergrundinformationen und Lizenzen zu den folgenden Dateien.
+Die Lizenz eines Datensatzes ist auf der Datensatz-Seite auf dem Open-Data-Portal jeweils in der linken Spalte genannt:
 
 * Fahrradzählung: https://opendata.stadt-muenster.de/dataset/verkehrsz%C3%A4hlung-fahrradverkehr
 * Coronavirus-Fallzahlen: https://opendata.stadt-muenster.de/dataset/coronavirus-infektionen-sars-cov-2-im-regierungsbezirk-m%C3%BCnster
 * Datenportal Münsterland: https://opendata.stadt-muenster.de/dataset/veranstaltungen-und-touristische-orte-im-m%C3%BCnsterland
-
-
