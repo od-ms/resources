@@ -1,7 +1,7 @@
 Gebiet,Datum,Bestätigte Faelle,Gesundete,Todesfaelle
 Stadt Bottrop,05.04.2020,61,26,1
 Stadt Gelsenkirchen,05.04.2020,186,25,3
-Stadt Münster,05.04.2020,559,270,3
+Stadt Münster,05.04.2020,559,,3
 Kreis Borken,05.04.2020,664,246,12
 Kreis Coesfeld,05.04.2020,399,140,5
 Kreis Recklinghausen,05.04.2020,540,242,3
@@ -9,7 +9,7 @@ Kreis Steinfurt,05.04.2020,683,231,9
 Kreis Warendorf,05.04.2020,343,205,2
 Stadt Bottrop,04.04.2020,60,26,1
 Stadt Gelsenkirchen,04.04.2020,170,24,2
-Stadt Münster,04.04.2020,552,270,2
+Stadt Münster,04.04.2020,552,,2
 Kreis Borken,04.04.2020,650,218,12
 Kreis Coesfeld,04.04.2020,394,140,5
 Kreis Recklinghausen,04.04.2020,530,232,2
