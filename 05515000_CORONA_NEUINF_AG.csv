@@ -452,7 +452,8 @@
 2022,06,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 18-29",1123
 2022,06,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 30-64",1949
 2022,06,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 65 und mehr",205
-2022,07,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 0-11",648
+2022,07,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe ",1
+2022,07,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 0-11",647
 2022,07,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 12-17",301
 2022,07,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 18-29",1012
 2022,07,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 30-64",1630
@@ -487,30 +488,36 @@
 2022,12,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 18-29",2355
 2022,12,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 30-64",3786
 2022,12,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 65 und mehr",659
-2022,13,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe ",1
 2022,13,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 0-11",641
 2022,13,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 12-17",386
 2022,13,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 18-29",1558
 2022,13,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 30-64",2724
 2022,13,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 65 und mehr",430
+2022,13,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe Alter unbekannt",1
 2022,14,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 0-11",562
 2022,14,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 12-17",402
 2022,14,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 18-29",1803
 2022,14,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 30-64",2589
 2022,14,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 65 und mehr",385
-2022,15,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 0-11",374
+2022,15,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 0-11",373
 2022,15,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 12-17",210
 2022,15,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 18-29",1329
 2022,15,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 30-64",1428
-2022,15,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 65 und mehr",279
+2022,15,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 65 und mehr",280
 2022,16,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe ",1
 2022,16,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 0-11",368
 2022,16,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 12-17",312
-2022,16,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 18-29",1743
-2022,16,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 30-64",2918
-2022,16,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 65 und mehr",370
-2022,17,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 0-11",230
+2022,16,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 18-29",1744
+2022,16,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 30-64",2919
+2022,16,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 65 und mehr",371
+2022,17,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe ",1
+2022,17,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 0-11",239
 2022,17,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 12-17",193
-2022,17,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 18-29",866
-2022,17,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 30-64",1610
-2022,17,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 65 und mehr",239
+2022,17,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 18-29",880
+2022,17,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 30-64",1629
+2022,17,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 65 und mehr",241
+2022,18,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 0-11",213
+2022,18,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 12-17",114
+2022,18,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 18-29",596
+2022,18,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 30-64",1021
+2022,18,"Münster gesamt","gemeldete Corona-Neunfizierungen in der Altersjahrgruppe 65 und mehr",191
