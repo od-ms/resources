@@ -1,0 +1,1020 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          7.624177368182772,
+          51.964331004752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten:\nMontags bis Freitag 11-19 Uhr\nSamstag 10:30-18:00 Uhr\n",
+        "Homepage": "https://www.gruenewiese-shop.de/",
+        "ID": "1bb2e38457d4454fa7c7e7cceae065ad",
+        "Name": "gruene wiese",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Spiekerhof 29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.624563438643032,
+          51.950306320539816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nDienstag - Samstag 10:00 - 18:00 Uhr",
+        "Homepage": "https://www.fairteilbar-muenster.de/",
+        "ID": "ba29501e17234c2daf5313176f75bfd5",
+        "Name": "fairTEILBAR M\u00fcnster",
+        "PLZ": "48153",
+        "Stra\u00dfe": "Hammer Stra\u00dfe 60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.630307724527227,
+          51.94631368478123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00f6kologische Baustoffe und Einrichtungen\nvon Dienstag bis Freitag in der Regel von 9.00 Uhr - 18.00 Uhr",
+        "Homepage": "https://www.forumnatura/",
+        "ID": "6045a5d219d44aabafa1117521044c86",
+        "Name": "forum natura",
+        "PLZ": "48153",
+        "Stra\u00dfe": "Friedrich-Ebert-Str., 114"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.625218987290384,
+          51.9509674850623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nDi-Fr 10.00h - 13.00h & 14.00h - 18.00h\nSa 10.00h - 16.00h",
+        "Homepage": "https://www.frautoebben.de/",
+        "ID": "f212c76a1d6a43b89b5babf6e56c4f74",
+        "Name": "Frau T\u00f6bben green.fair.fashion",
+        "PLZ": "48153",
+        "Stra\u00dfe": "Hammer Stra\u00dfe 55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.525599984231219,
+          51.92539999816818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Es ist die Esso Tankstelle direkt in die Waschanlage rechts gibt es Leitungswasser (Trinkwasser) dort kann man Flasche auff\u00fcllen.",
+        "Homepage": "https://www.esso.naserie.com/",
+        "ID": "27157ef2708242c9a0c1fb3300ce52cf",
+        "Name": "L\u00f6wen Tankstelle (Esso)",
+        "PLZ": "48163",
+        "Stra\u00dfe": "D\u00fclmener Stra\u00dfe 16",
+        "\u00d6ffnungszeiten": "09:00-20:00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.624085167247841,
+          51.960324999857846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo - Fr  9.30 - 19.00 Uhr\nSa         9.30 - 18.00 Uhr",
+        "ID": "e32dcd4efdbf45bab5db1afcc409431c",
+        "Name": "The Body Shop",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Aegidiistr. 3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.618460658760025,
+          51.95120527965538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Refill Station",
+        "Homepage": "https://www.schruender.de/",
+        "ID": "0bbb6f89ca014522abbe7f6a801ab96e",
+        "Name": "Schr\u00fcnder Schlafr\u00e4ume",
+        "PLZ": "48151",
+        "Stra\u00dfe": "Weselerstra\u00dfe 77"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.635626796463331,
+          51.95577878130403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Die BM - M\u00fcnster ist Refill-Station, dort kann man kostenlos seine Wasserflasche auff\u00fcllen lassen. auf Gleis 12",
+        "ID": "52c37e7fc3284ffb8a2ebf5acb60a91f",
+        "Name": "Bahnhofsmission M\u00fcnster",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Berliner Platz 8-10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.599199967272207,
+          51.960899998415684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Geb\u00e4ude A11 auf dem Klinikgel\u00e4nde, Hahn befindet sich im Bistro im Erdgeschoss bei den Automaten, Trinkwasser im Erdgeschoss auch via Aufzug erreichbar, ",
+        "Homepage": "https://www.uni-muenster.de/ZBMed/",
+        "ID": "ee62ea35a910446e81de5ce9b127cc65",
+        "Name": "Zweigbibliothek Medizin",
+        "PLZ": "48149",
+        "Stra\u00dfe": "Albert-Schweitzer-Campus 1, Geb\u00e4ude A11",
+        "\u00d6ffnungszeiten": "Mo-Fr: 08-24 Uhr, Sa-So: 10-24 Uhr, Feiertage geschlossen."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.629951912737429,
+          51.93969118499183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Wasserflasche leer? Kein Problem! Sagen Sie einfach kurz an der Information Bescheid und f\u00fcllen Sie Ihre Flasche kostenfrei mit Leitungswasser auf.",
+        "ID": "bfad1249a7b34c4bad13907cf7753652",
+        "Name": "Autohaus Fischer GmbH | Service",
+        "PLZ": "48153",
+        "Stra\u00dfe": "Dahlweg 121",
+        "\u00d6ffnungszeiten": "Mo-Fr 07:00-18:00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.611899975506542,
+          51.95960000714268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Sowohl im Gesch\u00e4ft als auch im Au\u00dfenverkauf ist das auff\u00fcllen deiner Trinkflasche mit Leitungswasser m\u00f6glich !",
+        "ID": "ed0e8e8c23744f48bbd92cb633a49c2e",
+        "Name": "Blumenhaus Harbaum",
+        "PLZ": "48149",
+        "Stra\u00dfe": "Himmelreichallee 45",
+        "\u00d6ffnungszeiten": "Mo-Fr 9-18Uhr Sa 9-13Uhr So 10-12Uhr"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.635499978268286,
+          51.96969999092151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Das Gesundheitsamt in M\u00fcnster bietet im Erdgeschoss  Zugang zu Trinkwasser w\u00e4hrend der \u00d6ffnungszeiten (montags - donnerstags 8 - 16 Uhr, freitags 8 - 13 Uhr).",
+        "Homepage": "https://www.stadt-muenster.de/gesundheit/hygiene-und-umweltmedizin/hitze-und-uv-schutz",
+        "ID": "90d8f93cc77f485fba519264810acff4",
+        "Name": "Gesundheitsamt der Stadt M\u00fcnster",
+        "PLZ": "48147",
+        "Stra\u00dfe": "St\u00fchmerweg 8",
+        "\u00d6ffnungszeiten": "montags - donnerstags 8 - 16 Uhr, freitags 8 - 13 Uhr"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.6318663394227,
+          51.94891064984208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Wasserflasche leer? Kein Problem! Sagen Sie einfach kurz an der Information Bescheid und f\u00fcllen Sie Ihre Flasche kostenfrei mit Leitungswasser auf.",
+        "ID": "610346b4f71c40fdab3f819e31f9518e",
+        "Name": "Autohaus Fischer GmbH",
+        "PLZ": "71-91",
+        "Stra\u00dfe": "48153 ",
+        "\u00d6ffnungszeiten": "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.613301681174572,
+          51.95013168358716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo-Fr 8:00-20:00",
+        "Homepage": "http://www.bahnhofsmission.de/",
+        "ID": "3e94137a69724e84be651bc184cd6733",
+        "Name": "Bahnhofsmission M\u00fcnster",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Hauptbahnhof M\u00fcnster Gleis 9/12",
+        "\u00d6ffnungszeiten": "Mo-Fr 8:00-20:00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.7194350155626585,
+          51.929948018831176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten:\nMo - Fr 09:00h-18:00h",
+        "Homepage": "https://www.travelworks.de/",
+        "ID": "e180ab75389a405a92f2be0abeb267ba",
+        "Name": "TravelWorks (Travelplus Group GmbH)",
+        "PLZ": "48155",
+        "Stra\u00dfe": "M\u00fcnsterstr. 111"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.6147157082402686,
+          51.95763709114755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo - Do 09:00 - 16:00\nFr 09 - 14:00",
+        "Homepage": "https://www.overschmidt.de/",
+        "ID": "6862046c308b4cefa9179366521730fb",
+        "Name": "Overschmidt Yachtschule",
+        "PLZ": "48149",
+        "Stra\u00dfe": "Annette-Allee 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.629403736269755,
+          51.972928700024696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten:\nMo - Fr: 09:30h- 19:00h\nSa: 10:00h-17:00h\n\n",
+        "Homepage": "https://www.einzelhandel.ms/",
+        "ID": "162f3845d27d464f88b183819a64ef54",
+        "Name": "EINZELHANDEL - ZUM WOHLF\u00dcLLEN",
+        "PLZ": "48147",
+        "Stra\u00dfe": "Langemarckstra\u00dfe 10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.641455571931533,
+          51.960444190521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo-Do 09h-12h\nMi 13-15h\nDo 14-17h\n(oder einfach klingeln, vielleicht ist gerade jemand vor Ort)",
+        "Homepage": "https://www.umweltforum-muenster.de/",
+        "ID": "3e2a44a4d19340ed89d79bffbce9f895",
+        "Name": "Umwelthaus M\u00fcnster",
+        "PLZ": "48145",
+        "Stra\u00dfe": "Zumsandestra\u00dfe 15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.638621399010821,
+          51.95041335744337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten:\nMo-Fr: 09:00 - 18:00 Uhr",
+        "Homepage": "https://www.stadtwerke-muenster.de/",
+        "ID": "e265bcca7bcb4284bc1a468a45ced24c",
+        "Name": "Kundenservicecenter Stadtwerke M\u00fcnster",
+        "PLZ": "48155",
+        "Stra\u00dfe": "Hafenplatz 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.625340776343523,
+          51.955842693315745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nDi,Mi, Fr 10.00h - 19.00h\nDo 10.00h - 20.00h\nSa 09.00h - 16.00h",
+        "Homepage": "https://www.doepker-friseure.de/",
+        "ID": "e1a164dd17ac447c965714304dac444d",
+        "Name": "Andreas D\u00f6pker Friseure",
+        "PLZ": "48151",
+        "Stra\u00dfe": "Ludgeriplatz 11-13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.640185294505295,
+          51.903061346105794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo-Fr 10h-13h & 14h-18h\nMi nachmittag geschlossen\nSa 10h-14h",
+        "Homepage": "https://www.dorodotdesign.de/",
+        "ID": "5faf2cd8b7464e8db3d31ee2dd555bd5",
+        "Name": "Doro Dot Design Kleidung & Accessoires",
+        "PLZ": "48165",
+        "Stra\u00dfe": "Marktallee 18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.625146232370821,
+          51.960438909922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo-Sa 10h-19h",
+        "Homepage": "https://www.adenauer.com/",
+        "ID": "c49b8b24ff8b4dbca24a0dd74ef47901",
+        "Name": "Adenauer & Co Strandhaus M\u00fcnster",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Rothenburg 14-16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.62962133047619,
+          51.95827889347369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten:\nMontag bis Freitag: 10:00 bis 19:00 Uhr \nSamstag: 09:30 bis 18:00 Uhr",
+        "Homepage": "https://www.trekking-koenig.de/filialen/muenster/",
+        "ID": "80a603c4d9b94d6784c9da343ca4187d",
+        "Name": "Trekking K\u00f6nig M\u00fcnster",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Windthorststra\u00dfe 35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.623465074050922,
+          51.96459440605929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten:\nMo - Fr: 09:30 - 19:00\nSa: 09:30 - 18:00",
+        "Homepage": "https://www.unterwegs-muenster.de/",
+        "ID": "e12ac7f554e843f08d6a1c571eed9df8",
+        "Name": "Unterwegs Outdoor GmbH",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Rosenstra\u00dfe 10-11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.630868976763854,
+          51.96417111994893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo - Fr  9.30 - 18.30 Uhr\nSa       10.00 - 16.00 Uhr",
+        "Homepage": "https://www.new-optics.de/",
+        "ID": "787678f720f04f718b33b71a560306af",
+        "Name": "New Optics by Martin Newels",
+        "PLZ": "48134",
+        "Stra\u00dfe": "B\u00fclt 7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.665622694262128,
+          51.996284705585005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo-Fr 08:00-16:00 Uhr",
+        "Homepage": "https://www.johanniter.de/dienstleistungen/pflege-und-beratung/pflegedienste/ambulante-pflegedienste/",
+        "ID": "7d7b98a548114cc6a0f6ce050b7ec6ed",
+        "Name": "Johanniter-Unfall-Hilfe e.V. Pflegestation Nord",
+        "PLZ": "48157",
+        "Stra\u00dfe": "An der alten Ziegelei 20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.6349495386867545,
+          51.96088650355157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten:\nMo. - Fr. 8-17 Uhr",
+        "Homepage": "https://www.zaquensis.de/",
+        "ID": "9926dec688054cd09ae37ae652ba4079",
+        "Name": "ZAQUENSIS Service-Center M\u00fcnster",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Eisenbahnstra\u00dfe 11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.628006892105567,
+          51.95802571808827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo-Fr 10:30h-19h\nSa 10h-16h",
+        "Homepage": "https://www.auszeit.ms/",
+        "ID": "9076483061f24582a7aa8150a36a051e",
+        "Name": "Auszeit - Mein Tag am Meer",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Beelertstiege 5-6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.624693022866125,
+          51.9492243006589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo-Fr vormittags von 10-12 Uhr\nMo -Do nachmittags von 16-18 Uhr",
+        "Homepage": "https://www.suedviertelbuero.de/",
+        "ID": "02593b062b2a40f59d56f6ade5ab4143",
+        "Name": "S\u00fcdviertelb\u00fcro M\u00fcnster",
+        "Stra\u00dfe": "Hammer Stra\u00dfe 69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.6410280948695855,
+          51.959481906126946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo - Fr 10.00 - 12.30 Uhr\nDi & Mi 15:00 - 18:00 Uhr",
+        "Homepage": "https://www.handwerkstatt-muenster.de/",
+        "ID": "b05256e81c6a48b0a7d04d824c0dabd3",
+        "Name": "handwerkstatt m\u00fcnster",
+        "PLZ": "48145",
+        "Stra\u00dfe": "Zumsandestr. 32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.601632311754689,
+          51.93101411309606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nmo-fr 07:00-19:00 Uhr",
+        "Homepage": "https://www.johanniter.de/muenster",
+        "ID": "0cace99c9a0b4fa8a5b7c56f9ae9927c",
+        "Name": "Johanniter-Unfall-Hilfe e.V. Regionalgesch\u00e4ftsst.",
+        "PLZ": "48163",
+        "Stra\u00dfe": "Geringhoffstra\u00dfe 45/47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.658828826462305,
+          51.96690030953237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo - Do 9:00 - 18:00 Uhr\nFr 9:00 - 17:00 Uhr",
+        "ID": "25a221d7a62a4485abf229a017044076",
+        "Name": "Ska Treff",
+        "PLZ": "48145",
+        "Stra\u00dfe": "Skagerrakstrasse 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.6210814284258905,
+          51.9636257095093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMontag - Freitag 10 - 18 Uhr \nSamstag 11 - 14:30 Uhr",
+        "Homepage": "https://www.latienda-weltladen.de/",
+        "ID": "37f092e693ab408fab78d91803abc7d8",
+        "Name": "la tienda e.V.",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Frauenstra\u00dfe 7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.628409977829275,
+          51.93838976879529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "interface medien ist ein in der Digitalmetropole M\u00fcnster hervorragend vernetztes IT-, Beratungs- und Marketingunternehmen mit \u00fcber 20-j\u00e4hriger Erfahrung. Unser Sitz ist das Kreativzentrum \u201eSkaters Palace\u201c. ",
+        "Homepage": "https://www.interface-medien.de/",
+        "ID": "e973a5656c3d4f0985317de457c631d2",
+        "Name": "interface medien GmbH",
+        "PLZ": "48153",
+        "Stra\u00dfe": "Scheibenstra\u00dfe, 119",
+        "\u00d6ffnungszeiten": "Mo-Fr 09:00-16:00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.654200004252698,
+          51.949700015573626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Medienunternehmen",
+        "Homepage": "https://www.rums.ms/",
+        "ID": "44fe8568215b4559b68472d4defff28d",
+        "Name": "RUMS M\u00fcnster",
+        "PLZ": "M\u00fcnster",
+        "Stra\u00dfe": "Neubr\u00fcckenstra\u00dfe 8-11",
+        "\u00d6ffnungszeiten": "10 Uhr -16.30 Uhr"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.628288691690326,
+          51.9620569944205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo. - Sa. 9.30 - 19.00 Uhr",
+        "Homepage": "https://www.petzhold.de/",
+        "ID": "c5f3b666968745eabbff90d2e0a7547f",
+        "Name": "Heinrich Petzhold GmbH&Co. KG",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Prinzipalmarkt 5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.632738895543263,
+          51.960683703404236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Mo - Fr von 09:30 - 19:00 Uhr\nSa von 10:00 - 18:00 Uhr",
+        "Homepage": "https://www.ww.lueckertz.de/",
+        "ID": "f511209134b141f980a8090e2012b35f",
+        "Name": "L\u00fcckertz Reiseb\u00fcro GmbH",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Salzstra\u00dfe 36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.645032213835527,
+          51.96302091328568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMontag - Freitag: 10.00 - 18.30 Uhr\nSamstag 10.00 - 14.00 Uhr",
+        "Homepage": "https://www.dasschoenwerk.de/",
+        "ID": "28b1c4937b554d5fa7870f0937eec155",
+        "Name": "Das Sch\u00f6nwerk",
+        "PLZ": "48145",
+        "Stra\u00dfe": "Warendorfer Stra\u00dfe 71"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.644922578541991,
+          51.90435249447094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMO-FR: 10-17 Uhr\nSA: 10-13 Uhr\n\nWir sind barrierefrei",
+        "Homepage": "https://www.alexianer-werkstaetten.de/",
+        "ID": "e2859a3fa72c4315acc986017ea58776",
+        "Name": "Onkel Alex",
+        "PLZ": "48165",
+        "Stra\u00dfe": "Marktallee 41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.570062879272766,
+          51.99323130398673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "#kuechen\n#kuechentreff",
+        "Homepage": "https://www.kuechentreff-muenster.de/",
+        "ID": "ed5828d13372495089c8ec95af6e9d52",
+        "Name": "K\u00fcchenTreff M\u00fcnster",
+        "PLZ": "48159",
+        "Stra\u00dfe": "Haus Uhlenkotten 6",
+        "\u00d6ffnungszeiten": "10:00 - 18:00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.6266999857624524,
+          51.95720001680646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Bei uns im Kundencenter f\u00fcllen wir Ihre Flasche gerne wieder auf. ",
+        "Homepage": "https://www.aok.de/pk/nordwest/",
+        "ID": "b1b415712cd24183a0269773dc4d8259",
+        "Name": "AOK NordWest Kundencenter M\u00fcnster",
+        "PLZ": "48143",
+        "Stra\u00dfe": "K\u00f6nigsstra\u00dfe 18/20",
+        "\u00d6ffnungszeiten": "Mo und Do: 08:30 - 18:00 Uhr, Di 08:30 - 17:00 Uhr, Mi und Fr 08:30 - 14:00 Uhr"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.6140631770780605,
+          51.98085169400128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Kostenlose Energieberatung der Caritas f\u00fcr Haushalte mit geringem Einkommen in M\u00fcnster",
+        "Homepage": "http://www.caritas-ms.de/hilfe-beratung/stromsparcheck/",
+        "ID": "db881edac74d4698a3de32ff255621ad",
+        "Name": "Stromspar-Check",
+        "PLZ": "48147",
+        "Stra\u00dfe": "Kinderhauser Stra\u00dfe 102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.629614960229777,
+          51.96140320597282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Frischwasser zum Abzapfen im Stadthaus 1",
+        "Homepage": "https://www.stadt-muenster.de/",
+        "ID": "de7c983faf2f45f387475a0efe98f758",
+        "Name": "Servicezentrum und M\u00fcnster Information",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Heinrich-Br\u00fcning-Stra\u00dfe 7",
+        "\u00d6ffnungszeiten": "Mo-Fr 8-18 Uhr; Sa 8-16 Uhr"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.63640455325898,
+          51.95343448871441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo-Fr 7h-18.30h\nSa 7h-14h",
+        "Homepage": "https://www.cibaria.de/",
+        "ID": "aa87a0ee35234f55a3760c73cb4a4cac",
+        "Name": "Cibaria Vollkornb\u00e4ckerei GmbH",
+        "PLZ": "48155",
+        "Stra\u00dfe": "Bremer Stra\u00dfe 56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.629151943898365,
+          51.96227328943195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Reformhaus\n\u00d6ffnungszeiten\nMo-Fr: 8:30-18:30 Uhr\nSa:       9:00-18:00 Uhr\n",
+        "Homepage": "https://www.muenster-gesundheit.de/",
+        "ID": "f3fa35641ecd4d579ba2b30b8c4590ce",
+        "Name": "Adler Vital",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Salzstra\u00dfe 58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.643300009725289,
+          51.90389999742801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Ein Initiative der Stadtteiloffensive Hiltrup e.V.\nB\u00fcrger f\u00fcr B\u00fcrger\nAlles rund um Hiltrup",
+        "Homepage": "https://www.infopunkt-hiltrup.de/",
+        "ID": "3ad88aaa618b4a3586d9db4db777e6c4",
+        "Name": "Infopunkt Hiltrup",
+        "PLZ": "48165",
+        "Stra\u00dfe": "Marktallee 38",
+        "\u00d6ffnungszeiten": "Mo.10h-12h 16h-18h Di.10h-12h 16h-18h Mi.-10h-12h 16h-18h Do.10h-12h 16h-18h Fr.10h-12h 16h-18h Sa.10h-12h"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.629184130406559,
+          51.96235425861662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten:\nMo-Fr: 8:15 - 19:00 Uhr\nSa:       9:00-18:00 Uhr\n",
+        "Homepage": "https://www.adlerapotheke-muenster.de/",
+        "ID": "8fb738e428a941ce943d7e6d84879df4",
+        "Name": "Adler Apotheke",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Salzstra\u00dfe 58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.631650589234964,
+          51.94991082043848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nDi - Fr 10h-18h\nSa 10h-13h",
+        "Homepage": "https://www.die-marmeladenmanufaktur.de/",
+        "ID": "0d0d62534882440d9c509f1aaa76157b",
+        "Name": "Die Marmeladenmanufaktur",
+        "PLZ": "48153",
+        "Stra\u00dfe": "Bl\u00fccherstra\u00dfe 16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.6244999876359945,
+          51.95650000216276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Wir sind das Stra\u00dfenmagazin aus M\u00fcnster und dem M\u00fcnsterland.",
+        "Homepage": "https://strassenmagazin-draussen.de/",
+        "ID": "7ad812fd423841cebfa1261ce739a0cf",
+        "Name": "drau\u00dfen e.V.",
+        "PLZ": "48151",
+        "Stra\u00dfe": "von-Kluck-Str. 15",
+        "\u00d6ffnungszeiten": "10-16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.628105882382069,
+          51.96302527187533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo - Fr 10 - 19 Uhr\nSamstag 10 - 18 Uhr",
+        "Homepage": "https://www.gudrunsjoeden.de/",
+        "ID": "50cafb9c8498448097567188b5276813",
+        "Name": "Gudrun Sj\u00f6d\u00e9n GmbH - Konzeptladen M\u00fcnster",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Prinzipalmarkt 48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.625016396690634,
+          51.902717017523344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nDi, Do, Fr 10h-13h & 15h-18h\nMi, Sa 10h-13h\n",
+        "Homepage": "https://www.naturkunst-muenster.de/",
+        "ID": "4c883c02ccca4d21ae1d27e387c3869f",
+        "Name": "Naturkunst Sandra Patrias",
+        "PLZ": "48165",
+        "Stra\u00dfe": "Meesenstiege 54b"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.618399889962003,
+          51.963342107815365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo-Fr: 10:00-19:00 Uhr\nSa: 10:00-14:00 Uhr\n\n",
+        "Homepage": "https://www.statravel.de/",
+        "ID": "d910e56cc84344d7a8f00142de5fe3b8",
+        "Name": "STA Travel M\u00fcnster",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Frauenstr. 25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.640600031074416,
+          51.94919999313969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Die Stadtverwaltung M\u00fcnster betreibt ein Geoportal",
+        "Homepage": "https://www.stadt-muenster.de/katasteramt/startseite.html",
+        "ID": "ddaa5c70d7154477ba3d3e61d5c5968e",
+        "Name": "Stadt M\u00fcnster - Vermessungs- und Katasteramt",
+        "PLZ": "48155 ",
+        "Stra\u00dfe": "Albersloher Weg 33 "
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.626499993552686,
+          51.9548999806656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Das Haus der Nachhaltigkeit ist die st\u00e4dtische Anlaufstelle f\u00fcr B\u00fcrger*innen rund um Fragen zu nachhaltigen Konsum- und Lebensweisen, insbesondere zu Natur-, Umwelt- und Klimaschutzthemen. ",
+        "Homepage": "https://www.stadt-muenster.de/umwelt/nachhaltigkeit/haus-der-nachhaltigkeit",
+        "ID": "b9cd1a3e936a4fe1851a756b8e1b87c4",
+        "Name": "Haus der Nachhaltigkeit",
+        "PLZ": "48153",
+        "Stra\u00dfe": "Hammer Str. 1",
+        "\u00d6ffnungszeiten": "Di-Do 10-12 und 14-16 Uhr, Fr 10-14, 3. Sa im Monat 10-14 Uhr"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.634050411933125,
+          51.95671239958923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten:\nMo-Sa 06:00-22:00 So 06:30-21:00\n\n",
+        "ID": "1f22ba9e68954e17a18f63847c3ee949",
+        "Name": "Starbucks M\u00fcnster Hauptbahnhof",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Berliner Platz 8-10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.628828905349983,
+          51.959431866164984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten:\nMo-Fr 07:30-20:30 Sa 08:00-21:00 So 09:00-20:00",
+        "Homepage": "https://www.starbucks.de/",
+        "ID": "dbd5b8288cbd48738c0c4aab75b334b6",
+        "Name": "Starbucks",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Hanse Carree"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
